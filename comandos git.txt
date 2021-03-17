@@ -1,0 +1,34 @@
+PUSH
+git add .
+git commit -m ""
+git push origin (branch)
+
+PULL
+git pull origin (branch)
+
+CLONE
+git clone urlrepo.git
+git config --global user.name "email"
+git config --global user.name "nome"
+
+Levar mudanças de um branch para outro  
+git checkout master
+git merge GetSet
+git push origin master
+
+Ir para outro Branch
+git checkout (branch)
+
+Criar outro branch 
+git checkout -b (branch)
+
+Criar outro repositorio
+Criar no github o repo
+git remote add url
+
+Criar outro repositório:
+Criar no github o repo
+git remote add url
+git commit -m ""
+git push origin (branch)
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed9b9b93-cc23-423b-b42c-746c436b928c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstruturaCondicao/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EstruturaCondicao/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstruturaCondicao/src/estruturacondicao/EstruturaCondicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/EstruturaCondicao/src/estruturacondicao/EstruturaCondicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EstudoJava/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/src/estudojava/EstudoJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/EstudoJava/src/estudojava/EstudoJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metodos01/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Metodos01/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metodos01/src/metodos01/Metodos01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Metodos01/src/metodos01/Metodos01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metodos01/src/metodos01/Metodos01a.java" beforeDir="false" afterPath="$PROJECT_DIR$/Metodos01/src/metodos01/Metodos01a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/src/poo/Caneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/src/poo/Caneta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo/src/poo/Poo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Poo/src/poo/Poo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo1/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Poo1/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo1/src/poo1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Poo1/src/poo1/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poo1/src/poo1/Poo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Poo1/src/poo1/Poo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoCarro/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoCarro/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/controller/AluguelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/controller/AluguelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/controller/CarrosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/controller/CarrosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/model/Aluguel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/model/Aluguel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/view/ProjetoCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoCarro/src/projetocarro/view/ProjetoCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoTimes/src/main/java/controller/TimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoTimes/src/main/java/controller/TimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoTimes/src/main/java/model/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoTimes/src/main/java/model/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoTimes/src/main/java/view/ProjetoClubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoTimes/src/main/java/view/ProjetoClubes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomaSwing/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SomaSwing/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomaSwing/src/com/cursoemvideo/soma/TelaSoma.java" beforeDir="false" afterPath="$PROJECT_DIR$/SomaSwing/src/com/cursoemvideo/soma/TelaSoma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vetores1/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Vetores1/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vetores1/src/vetores1/Vetores1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vetores1/src/vetores1/Vetores1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vetores1/src/vetores1/mes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vetores1/src/vetores1/mes.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hLLnPIOP4LSJuDWfs5dVkPUWFi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed9b9b93-cc23-423b-b42c-746c436b928c" name="Default Changelist" comment="" />
+      <created>1599785593093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599785593093</updated>
+      <workItem from="1599785594252" duration="18000" />
+      <workItem from="1599785645226" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

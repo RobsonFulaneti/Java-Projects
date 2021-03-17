@@ -1,0 +1,17 @@
+[17:32, 20/10/2020] Eduúüùûūůűų Bachiega: Então, uma lista nada mais é que uma lista de objetos
+[17:32, 20/10/2020] Eduúüùûūůűų Bachiega: Literalmente, uma lista é uma lista
+[17:32, 20/10/2020] Eduúüùûūůűų Bachiega: * Produto 1
+* Produto 2
+* Produto 3
+* Produto 4
+[17:33, 20/10/2020] Eduúüùûūůűų Bachiega: Quem tem as propriedades? Valor, qtd...
+[17:33, 20/10/2020] Eduúüùûūůűų Bachiega: O produto
+[17:33, 20/10/2020] Eduúüùûūůűų Bachiega: Onde está o produto?
+[17:33, 20/10/2020] Eduúüùûūůűų Bachiega: Dentro da lista
+[17:33, 20/10/2020] Eduúüùûūůűų Bachiega: lista.get(posicao) => pega o produto dentro da lista
+[17:34, 20/10/2020] Eduúüùûūůűų Bachiega: Queremos o ultimo produto (Produto 4)
+[17:34, 20/10/2020] Eduúüùûūůűų Bachiega: lista.get(3) => Agora sim pegamos um PRODUTO
+[17:34, 20/10/2020] Eduúüùûūůűų Bachiega: Você pode até fazer isso aqui:
+
+Produto produto = lista.get(3);
+[17:35, 20/10/2020] Eduúüùûūůűų Bachiega: Agora sim o produto te dá acesso aos atributos (Valor, qtd)
